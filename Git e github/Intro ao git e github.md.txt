@@ -1,0 +1,24 @@
+## Git / Github
+
+Nesse módulo de estudo entendemos o funcionamento do Git e do Github suas funcionalidades e comandos entendemos também sobre a importancia de ambos na vida de uma pessoa que trabalha nas áreas de tecnologias e afim.
+
+* Entendemos sobre os comandos do git;
+* Entendemos navegação CLI;
+* Git add, Git push, Git commit;
+* Aprendemos sobre flags;
+* Criação de chaves SSH e TOKENS de validação de acesso;
+* Como o Git funciona debaixo dos panos;
+* Ciclo de vida;
+* Resolução de conflitos;
+
+Até aqui o conteúdo que eu mais tive trabalho pois por algum motivo não consegui fazer git push apesar de seguir todo o passo a passo ensinado nas aulas na hora de empurrar o repositório para o Github me voltou a seguinte exclamação:
+
+fatal: Ocorreu um erro ao enviar a solicitação.
+
+fatal: A solicitação foi anulada: Não foi possível criar um canal seguro para SSL/TLS.
+
+Para resolução criei o repositório no Github e clonei o link SSH para o meu computador, com as chaves devidamente criadas e configuradas foi posível fazer o projeto, commitar e empurrar novamente para o Github.
+
+O bom de tudo é que me ajudou a treinar um pouco mais sobre as tecnologias GIT/GITHUB.
+
+Sem mais, por enquanto.
