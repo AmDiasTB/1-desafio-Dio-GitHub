@@ -1,0 +1,16 @@
+### Estrutura de Dados
+
+
+
+Nesse módulo aprendemos sobre os conceitos inicias sobre estrutura de dados,
+
+arrays e registros, além disso pudemos entender os conceitos básicos sobre:
+
+
+
+* Listas, pilhas e filas;
+* Árvores, tabela hash e grafos;
+
+
+
+Nesse módulo entendemos ainda um pouco mais sobre vetores e matrizes.

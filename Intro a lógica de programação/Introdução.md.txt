@@ -1,0 +1,13 @@
+## lógica de programção:computer:
+
+
+
+Nas primeiras lições dentro do bootcamp, o aprendizado foi de lógica de programação 
+
+foi possível aprender e entender sobre:
+
+* O que sãoo algoritmos e pseudocódigos;
+* Fluxograma, variáveis e constantes;
+* Tomadas de decisões e expressões.
+
+Além disso aprendemos a usar o portugol, entendemos sobre o que é linguagem de    programação e tivemos alguns exercícios envolvendo tomadas de decisão, matrizes e vetores   dentro da plataforma do portugol.
