@@ -2,7 +2,7 @@
 
 
 
-Nesse módulo aprendemos sobre os conceitos inicias sobre estrutura de dados,
+Nesse módulo aprendemos os conceitos inicias sobre estrutura de dados,
 
 arrays e registros, além disso pudemos entender os conceitos básicos sobre:
 
